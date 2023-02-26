@@ -1,0 +1,23 @@
+{
+  "name": "parsh_backend",
+  "version": "1.0.0",
+  "description": "parsh_backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devangbramhakshatriya/Parsh_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devangbramhakshatriya/Parsh_Backend/issues"
+  },
+  "homepage": "https://github.com/Devangbramhakshatriya/Parsh_Backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
