@@ -17,5 +17,14 @@
       "email": "devangbramhakshtriya@gmail.com",
       "id": 1
     }
+  ],
+  "dogs":[
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    }
   ]
 }
